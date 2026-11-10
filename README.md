@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🎉 Congratulations NihalReddy14! 🎉
-
   ___   ___   ___   ___   ___
  / _ \ / _ \ / _ \\ / _ \\ / _ \
 | | | | | | | | | | | | | | |
 | |_| | |_| | |_| | |_| | |_| |
  \___/ \___/ \___/ \___/ \___/
+
+# 🎉 Congratulations NihalReddy14! 🎉
 
 ### 🌟 You've successfully completed the exercise! 🌟
 
